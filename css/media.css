@@ -1,0 +1,174 @@
+
+
+
+/* small devices */
+@media only screen and (min-width: 640px) {
+    .sm-100{
+        width: 100%;
+    }
+    .sm-50{
+        width: 50%;
+    }
+    .sm-35{
+        width: 35%;
+    }
+    .sm-25{
+        width: 25%;
+    }
+    .sm-45{
+        width: 45%;
+    }
+    .sm-40{
+        width: 40%;
+    }
+    .sm-33{
+        width:33.3%;
+    }
+    .sm-16{
+        width: 16.6%;
+    }
+ 
+}
+
+/* meduim devices */
+@media only screen and (min-width: 768px) {
+    .md-100{
+        width: 100%;
+    }
+
+    .md-50{
+        width: 50%;
+    }
+    .md-45{
+        width: 45%;
+    }
+    .md-47{
+        width: 47%;
+    }
+    .md-49{
+        width: 49%;
+    }
+    .md-40{
+        width: 40%;
+    }
+    .md-25{
+        width: 25%;
+    }
+    .md-35{
+        width: 35%;
+    }
+    .md-33{
+        width:33.3%;
+    }
+    .md-30{
+        width: 31.5%;
+    }
+    .md-31{
+        width: 31.5%;
+    }
+    .md-16{
+        width: 16.6%;
+    }
+ 
+
+}
+/* large devices */
+@media only screen and (min-width: 1024px) {
+    .lg-100{
+        width: 100%;
+    }
+    .lg-50{
+        width: 50%;
+    }
+    .lg-25{
+        width: 25%;
+    }
+    .lg-31{
+        width: 31.5%;
+    }
+   
+    .lg-45{
+       width: 45%;
+    }
+    .lg-40{
+        width: 40%;
+    }
+    .lg-33{
+        width:33.3%;
+    }
+    .lg-30{
+        width: 30%;
+    }
+    .lg-16{
+        width: 16.6%;
+    }
+
+}
+/* extra extra large */
+@media only screen and (min-width: 1280px) {
+
+    .xxl-100{
+        width: 100%;
+    }
+    .xxl-50{
+        width: 50%;
+    }
+    .xxl-40{
+        width: 40%;
+    }
+    .xxl-25{
+        width: 25%;
+    }
+    .xxl-33{
+        width:33.3%;
+    }
+    .xxl-16{
+        width: 16.6%;
+    }
+
+}
+@media screen and (max-width:1024px){
+    .nav-list{
+     display: none;
+    }
+     .list-icon{
+         display: block;
+     }
+     .mealify{
+        width: 80%;
+     }
+  
+     .navbar{
+        padding: 25px 60px;
+        
+     }
+     .home-content{
+        padding: 30px 0 50px;
+        text-align: center;
+     }
+     .home-content h2{
+       width: 70%;
+       margin: auto;
+     }
+     .home-container{
+        width: 70%;
+     }
+    .chef-container{
+        width: 75%;
+    }
+    .part{
+        width: 50%;
+    }
+ }
+ @media  screen and (min-width:1025px) {
+   .part{
+        width: 33.3%;
+     }  
+ }
+@media screen and(max-width:640px) {
+    .part{
+        width: 100%;
+     }  
+}
+
+
